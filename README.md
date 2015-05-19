@@ -2,7 +2,7 @@
 A quasar is a compact region in the center of a massive galaxy surrounding a central supermassive black hole.  Some of their properties are perplexing.
 # DisplayBase
 
-> DisplayBase is an open-source platform to display content and associated data in a carousel slider and popup display.
+> DisplayBase is an open-source platform to display content and associated data in a gallery style.  Pop-ups display associated metadata.
 
 ## Team
 
